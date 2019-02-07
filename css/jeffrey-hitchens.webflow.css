@@ -122,7 +122,7 @@ p {
   left: 0px;
   top: 0px;
   right: 0px;
-  background-color: #323232;
+  background-color: #1D1A31;
   box-shadow: 0 1px 0 0 hsla(0, 0%, 100%, .13);
 }
 
@@ -215,7 +215,7 @@ p {
 .section {
   padding-top: 80px;
   padding-bottom: 80px;
-  color: #4d4d4d;
+  color: #1D1A31;
 }
 
 .section.grey {
@@ -232,7 +232,7 @@ p {
 .section.image {
   padding-top: 127px;
   padding-bottom: 127px;
-  background-color: #fff;
+  background-color: #F7FFF7;
   background-image: url('../images/ocean.jpg');
   background-position: 50% 50%;
   background-size: cover;
@@ -259,7 +259,7 @@ p {
 .main-heading {
   margin-top: 0px;
   font-family: 'Roboto Condensed', sans-serif;
-  color: #f5ad38;
+  color: #FEAB17;
   font-size: 79px;
   line-height: 66px;
   font-style: normal;
@@ -269,7 +269,7 @@ p {
 
 .main-heading.bold {
   position: relative;
-  color: #fff;
+  color: #1D1A31;
   font-size: 4em;
   font-weight: 300;
 }
@@ -325,7 +325,7 @@ p {
 }
 
 .slide._3 {
-  background-color: #0087ae;
+  background-color: #F7FFF7;
   background-image: none;
 }
 
